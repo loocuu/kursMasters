@@ -6,7 +6,7 @@ export default function Home() {
 		{
 			id: "1",
 			price: 20,
-			title: "Koszulka Olice",
+			title: "Koszulka Olive",
 			category: "merch",
 			coverImage: { src: "/tee1.png", alt: "koszulka" },
 		},
